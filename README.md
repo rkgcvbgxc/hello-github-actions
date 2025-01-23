@@ -1,6 +1,5 @@
 <header>
-
-# Hello GitHub Actions
+hack
 
 _Create and run a GitHub Actions workflow._
 
